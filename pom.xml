@@ -28,6 +28,12 @@
 			<scope>test</scope>
 		</dependency>
 
+		<dependency>
+			<groupId>org.apache.httpcomponents</groupId>
+			<artifactId>httpclient</artifactId>
+			<version>4.5.10</version>
+		</dependency>
+
 		<!-- Spring MVC -->
 		<dependency>
 			<groupId>org.springframework</groupId>
